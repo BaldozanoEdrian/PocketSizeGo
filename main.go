@@ -6,6 +6,7 @@ import (
 	"os"
 )
 
+// read file line by line
 func main() {
 	files := os.Args[1:]
 

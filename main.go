@@ -7,6 +7,6 @@ import (
 )
 
 func main() {
-	src := "src/path/github.com"
+	src := "src/path/github/myGoProjects.com"
 	fmt.Println(basename.Basename(src))
 }
